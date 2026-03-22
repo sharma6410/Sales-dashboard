@@ -7,11 +7,7 @@ An interactive 2-page Power BI report built on 5 years of superstore sales data 
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Executive Sales Overview
-![Superstore Sales Dashboard](images/dashboard_page1.png)
-
 ### Page 2 — Product Analysis
-![Product Analysis](images/dashboard_page2.png)
-
 ---
 
 ## 🧩 Problem Statement
